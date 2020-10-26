@@ -1,4 +1,5 @@
-#IPL Data analysis
+# IPL Data analysis
+
 Influence of toss for each team
 ![Alt text](/images/graph1.PNG?raw=true "Graph1")
 Top scores of ipl
